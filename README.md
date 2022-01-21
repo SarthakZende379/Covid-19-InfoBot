@@ -11,7 +11,7 @@ Project Description : In this unforeseen Corona pandemic situation which arised 
 
 Azure Services used : I have used Azure QnA bot maker for this project it uses the SARSCoV2Bot Database that I created on the azure platform. I then created a Storage account on azure named sarthak zende on which I created a static website which hosted my Html code embedded with the QnA bot. 
 
-Video url : 
+Video url : https://youtu.be/l0_FOl1dIbQ
 
 Project url : https://sarthakzende-secondary.z10.web.core.windows.net/
 
