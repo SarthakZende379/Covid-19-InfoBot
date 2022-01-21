@@ -1,5 +1,5 @@
 # Covid-19-InfoBot
-This is a project is made for Future Ready Talent Program.
+This project is made for Future Ready Talent Program.
 
 Visit this site to check it out : https://sarthakzende-secondary.z10.web.core.windows.net/
 
