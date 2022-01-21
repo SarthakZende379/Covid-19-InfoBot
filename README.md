@@ -14,3 +14,5 @@ Azure Services used : I have used Azure QnA bot maker for this project it uses t
 Video url : 
 
 Project url : https://sarthakzende-secondary.z10.web.core.windows.net/
+
+Screenshots : ![Screenshot (219)](https://user-images.githubusercontent.com/74917835/150590249-dea38d02-013d-4aaa-8cfe-13b9cdadb9ab.png)
