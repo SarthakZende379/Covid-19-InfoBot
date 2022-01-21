@@ -15,9 +15,16 @@ Video url :
 
 Project url : https://sarthakzende-secondary.z10.web.core.windows.net/
 
-Screenshots : ![Screenshot (219)](https://user-images.githubusercontent.com/74917835/150590249-dea38d02-013d-4aaa-8cfe-13b9cdadb9ab.png)
+Screenshots : 
+Deployed Website with bot
+![Screenshot (219)](https://user-images.githubusercontent.com/74917835/150590249-dea38d02-013d-4aaa-8cfe-13b9cdadb9ab.png)
 
+Static Website
 ![Screenshot (220)](https://user-images.githubusercontent.com/74917835/150590437-1d45b3bc-6d5a-47e5-853d-c8f3f8b4b24f.png)
+
+QnA database
+![Screenshot (221)](https://user-images.githubusercontent.com/74917835/150590636-ab6cee7b-9151-4dab-ac1a-e2166defb607.png)
+
 
 
 
