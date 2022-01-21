@@ -9,7 +9,7 @@ Problem Statement/Opportunity:A QnA Information bot to address questions about S
 
 Project Description : In this unforeseen Corona pandemic situation which arised in 2019, there are many misconceptions and confusions about the virus among the people. There are many FAQ sections on the web, but people find it difficult to get there and read, also they find it extremely difficult to log on to sites and check for the required information. Various social media platforms are misguiding people with incosistent and divergent information. Thus, this project provides a very simplified and user-friendly info bot to provide answers from centre of disease control website. 
 
-Azure Services used : I have used Azure QnA bot maker for this project it uses the SARSCoV2Bot Database that I created on the azure platform. I then created a Storage account on azure named sarthak zende on which I created a static website which hosted my Html code embedded with the QnA bot. 
+Azure Services used : I have used Azure QnA bot maker for this project it uses the SARSCoV2Bot Database that I created on the azure platform. I then created a Storage account on azure named sarthak zende on which I created a static website which hosted my Html code embedded with the QnA bot. For more information checkout the video below.
 
 Video url : https://youtu.be/l0_FOl1dIbQ
 
